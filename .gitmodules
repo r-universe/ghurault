@@ -8,3 +8,8 @@
 	url = https://github.com/ghurault/huraultmisc
 	shallow = true
 	registered = true
+[submodule "EczemaPred"]
+	path = EczemaPred
+	url = https://github.com/ghurault/EczemaPred
+	shallow = true
+	registered = false
