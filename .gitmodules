@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "HuraultMisc"]
-	path = HuraultMisc
-	url = https://github.com/ghurault/huraultmisc
 [submodule "EczemaPred"]
 	path = EczemaPred
 	url = https://github.com/ghurault/EczemaPred
 	registered = false
+[submodule "HuraultMisc"]
+	path = HuraultMisc
+	url = https://github.com/ghurault/huraultmisc
